@@ -44,11 +44,11 @@ The following visualizations were created to illustrate the findings of the anal
 ### Results and Comments
 
 * #### Preference for 3 Bedroom Houses:
-- It appears that 3 bedroom houses bring in more revenue compared to larger houses. This could be due to their versatility, appealing to a wider range of renters including small families, roommates, or individuals needing extra space.
+It appears that 3 bedroom houses bring in more revenue compared to larger houses. This could be due to their versatility, appealing to a wider range of renters including small families, roommates, or individuals needing extra space.
 * #### Seasonal Variation - January Boom:
-- The data suggests a significant increase in revenue during January, possibly attributed to the winter vacation period and New Year's Eve celebrations. This time of the year might attract more tourists or travelers to California, driving up demand for rental properties.
+The data suggests a significant increase in revenue during January, possibly attributed to the winter vacation period and New Year's Eve celebrations. This time of the year might attract more tourists or travelers to California, driving up demand for rental properties.
 * #### Revenue Peaks at 8 Occupants:
-- The analysis indicates that there's a revenue peak when the number of occupants is 8. Additionally, even-numbered occupancies such as 6, 8, 10, 12, etc., seem to dominate. This pattern could reflect the capacity of the houses or perhaps certain group sizes that prefer to rent together, such as larger families or groups of friends.
+The analysis indicates that there's a revenue peak when the number of occupants is 8. Additionally, even-numbered occupancies such as 6, 8, 10, 12, etc., seem to dominate. This pattern could reflect the capacity of the houses or perhaps certain group sizes that prefer to rent together, such as larger families or groups of friends.
 
 ### Conclusion
 
